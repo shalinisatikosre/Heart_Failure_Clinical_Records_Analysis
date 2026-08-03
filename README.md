@@ -66,13 +66,13 @@ This project analyzes the **Heart Failure Clinical Records** dataset using **Pyt
 
 # 📈 Key Insights
 
-Dataset contains 299 heart failure patients.
-Majority of patients are male.
-Older patients show a higher mortality rate.
-Patients with lower ejection fraction have a higher risk of death.
-High serum creatinine is associated with increased mortality.
-Diabetes and high blood pressure are common among patients.
-Smoking is observed in a smaller portion of patients compared to non-smokers.
+* Dataset contains 299 heart failure patients.
+* Majority of patients are male.
+* Older patients show a higher mortality rate.
+* Patients with lower ejection fraction have a higher risk of death.
+* High serum creatinine is associated with increased mortality.
+* Diabetes and high blood pressure are common among patients.
+* Smoking is observed in a smaller portion of patients compared to non-smokers.
 
 
 ---
